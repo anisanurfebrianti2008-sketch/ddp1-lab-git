@@ -1,2 +1,3 @@
-print("Nama: Anisa Nur Febrianti")
-print("NPM: 2606858903")
+nama = input("Masukan nama:")
+print("Nama:", nama)
+print("NPM: 2606858903") 
