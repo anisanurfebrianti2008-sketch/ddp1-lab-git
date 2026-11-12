@@ -1,4 +1,3 @@
 nama = input("Masukan nama:")
 npm = input("Masukan NPM kamu:")
-print("Nama:", nama)
-print("NPM:", npm) 
+print(f"Nama kamu {nama} dan NPM kamu itu {npm}")
