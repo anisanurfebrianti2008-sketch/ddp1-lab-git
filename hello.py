@@ -1,3 +1,4 @@
 nama = input("Masukan nama:")
+npm = input("Masukan NPM kamu:")
 print("Nama:", nama)
-print("NPM: 2606858903") 
+print("NPM:", npm) 
